@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monro3casino.vercel.app/sitemap.xml
